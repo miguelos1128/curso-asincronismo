@@ -14,5 +14,8 @@
     "javascript"
   ],
   "author": "Miguel Angel miugelos1128@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
